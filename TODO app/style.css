@@ -82,9 +82,7 @@ h1 {
   border-radius: 8px;
   cursor: pointer;
 }
-.todoIcon:hover {
+.removeTodo:hover {
   opacity: 0.9;
 }
-.todoItemNew {
-  border: 1px solid #000;
-}
+
